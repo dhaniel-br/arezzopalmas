@@ -3,7 +3,7 @@
     <div class="border-top" />
     <Container>
       <Logo class="logo" />
-      <p>arrezzopalmas &copy;{{ currentYear }}</p>
+      <p>arezzopalmas &copy;{{ currentYear }}</p>
     </Container>
   </footer>
 </template>
