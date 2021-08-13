@@ -34,7 +34,6 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
-    '@nuxtjs/style-resources',
     '@nuxtjs/eslint-module'
   ],
   styleResources: {
