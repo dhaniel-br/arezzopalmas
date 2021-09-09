@@ -4,31 +4,27 @@
       <img src="@/assets/img/avatars/tallyta.png" alt="Tallyta" />
       <div class="texts">
         <CardTitle text="Tallyta" />
-        <SubTitle text="descrição" />
       </div>
       <WhatsappButton link="https://api.whatsapp.com/message/SHQKEV77MWSZJ1" />
     </div>
     <div class="card">
-      <img src="@/assets/img/avatars/default.png" alt="Neto" />
+      <img src="@/assets/img/avatars/virna.png" alt="Virna" />
       <div class="texts">
-        <CardTitle text="Neto" />
-        <SubTitle text="descrição" />
+        <CardTitle text="Virna" />
       </div>
-      <WhatsappButton link="https://api.whatsapp.com/message/V5N6EKLCKAQ3F1" />
+      <WhatsappButton link="https://api.whatsapp.com/message/VQSWSAVTKMMNK1" />
     </div>
     <div class="card">
       <img src="@/assets/img/avatars/solange.png" alt="Solange" />
       <div class="texts">
         <CardTitle text="Solange" />
-        <SubTitle text="descrição" />
       </div>
-      <WhatsappButton link="https://api.whatsapp.com/message/EKHNQAQKNXBPL1s" />
+      <WhatsappButton link="https://api.whatsapp.com/message/EKHNQAQKNXBPL1" />
     </div>
     <div class="card">
       <img src="@/assets/img/avatars/priscilla.png" alt="Priscilla" />
       <div class="texts">
         <CardTitle text="Priscilla" />
-        <SubTitle text="descrição" />
       </div>
       <WhatsappButton link="https://api.whatsapp.com/message/3F6TFFC65JB6K1" />
     </div>
