@@ -12,7 +12,7 @@
       <div class="texts">
         <CardTitle text="Virna" />
       </div>
-      <WhatsappButton link="https://api.whatsapp.com/message/VQSWSAVTKMMNK1" />
+      <WhatsappButton link="https://api.whatsapp.com/message/V5N6EKLCKAQ3F1" />
     </div>
     <div class="card">
       <img src="@/assets/img/avatars/solange.png" alt="Solange" />
